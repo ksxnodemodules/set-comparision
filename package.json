@@ -1,6 +1,6 @@
 {
   "name": "set-comparision",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compare two Sets by comparing elements' existences",
   "main": "index.js",
   "scripts": {
