@@ -1,0 +1,32 @@
+{
+  "name": "set-comparision",
+  "version": "0.0.0",
+  "description": "Compare two Sets by comparing elements' existences",
+  "main": "index.js",
+  "scripts": {
+     "test": "bash -c './sh/test.sh'",
+     "clean": "bash -c './sh/clean.sh'",
+     "fix": "bash -c './sh/fix.sh'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksxnodemodules/set-comparision.git"
+  },
+  "keywords": [
+    "set",
+    "compare-set",
+    "set-equality",
+    "subset",
+    "equal-set"
+  ],
+"devDependencies": {
+  "standard": "8.0.0",
+  "assert": "^1.4.1"
+},
+  "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksxnodemodules/set-comparision/issues"
+  },
+  "homepage": "https://github.com/ksxnodemodules/set-comparision#readme"
+}
